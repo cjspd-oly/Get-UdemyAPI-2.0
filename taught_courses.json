@@ -1,0 +1,79 @@
+{
+    "27878376": {
+        "instructor": "Abdul Bari",
+        "count": 5,
+        "results": [
+            {
+                "id": 5665282,
+                "title": "\u3010AI \uc790\ub9c9\u3011 C \uc640 C++ \ub97c \uc0ac\uc6a9\ud558\uc5ec \ub370\uc774\ud130 \uad6c\uc870 \ubc0f \uc54c\uace0\ub9ac\uc998 \ub9c8\uc2a4\ud130\ud558\uae30",
+                "url": "/course/data-structures-algorithms-using-c-cpp-korean/"
+            },
+            {
+                "id": 4398404,
+                "title": "Learn Python Programming - Beginner to Master",
+                "url": "/course/learn-python-with-abdul-bari/"
+            },
+            {
+                "id": 2462140,
+                "title": "Learn JAVA Programming - Beginner to Master",
+                "url": "/course/java-se-programming/"
+            },
+            {
+                "id": 2121018,
+                "title": "Mastering Data Structures & Algorithms using C and C++",
+                "url": "/course/datastructurescncpp/"
+            },
+            {
+                "id": 1672380,
+                "title": "Learn C++ Programming -Beginner to Advance- Deep Dive in C++",
+                "url": "/course/cpp-deep-dive/"
+            }
+        ]
+    },
+    "2994446": {
+        "instructor": "CSkilled Academy",
+        "count": 8,
+        "results": [
+            {
+                "id": 4608160,
+                "title": "Mastering critical SKILLS in Algorithms using C++: Part 2",
+                "url": "/course/skills-algorithms-cpp2/"
+            },
+            {
+                "id": 4421900,
+                "title": "Mastering critical SKILLS in Data Structures using Python",
+                "url": "/course/python-ds-skills/"
+            },
+            {
+                "id": 4335460,
+                "title": "Mastering critical SKILLS in Algorithms using C++: Part 1",
+                "url": "/course/skills-algorithms-cpp/"
+            },
+            {
+                "id": 4149490,
+                "title": "Mastering critical SKILLS for Coding Interviews C++: Part 1",
+                "url": "/course/skills-coding-interviews/"
+            },
+            {
+                "id": 3929906,
+                "title": "Mastering critical SKILLS in Data Structures using C++",
+                "url": "/course/dscpp-skills/"
+            },
+            {
+                "id": 3687702,
+                "title": "Short Programming intro in Python and C++",
+                "url": "/course/basic-python-cpp/"
+            },
+            {
+                "id": 3663114,
+                "title": "Mastering 4 critical SKILLS using Python",
+                "url": "/course/python-4skills/"
+            },
+            {
+                "id": 3515300,
+                "title": "Mastering 4 critical SKILLS using C++ 17",
+                "url": "/course/cpp-4skills/"
+            }
+        ]
+    }
+}

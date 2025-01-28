@@ -141,9 +141,14 @@ if __name__ == "__main__":
     udemy_api = UdemyAPI()
     data_processor = UdemyDataProcessor()
 
-    # Input: List of profile IDs (provided dynamically)
-    profile_ids = input("Enter Udemy profile IDs (comma-separated): ").split(",")
-    profile_ids = [pid.strip() for pid in profile_ids if pid.strip()]  # Clean the inputs
+    # ? (Approach-A) Input: List of profile IDs (hardcode)
+    # * Instructor ID Example : AbdulBari & Dr.MostafaSaad
+    profile_ids = ["27878376", "2994446"]
+    # ? (Approach-B) Input: List of profile IDs (provided dynamically)
+    profile_ids = input(
+        "Enter Udemy profile IDs (comma-separated): ").split(",")
+    profile_ids = [pid.strip()
+                   for pid in profile_ids if pid.strip()]  # Clean the inputs
 
     # Fetch and Save Taught Courses
     courses_output_file = "taught_courses.json"
