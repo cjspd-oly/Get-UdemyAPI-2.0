@@ -109,7 +109,7 @@ class UdemyDataProcessor:
 
         for section in curriculum_context.get("sections", []):
             filtered_section = {
-                "instructor": section.get("title", ""),
+                "title": section.get("title", ""),
                 "content_length_text": section.get("content_length_text", ""),
                 #  ? -1: Invalid lecture count
                 "lecture_count": section.get("lecture_count", -1),
